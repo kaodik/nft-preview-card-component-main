@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@font-face {
+  font-family: 'Outfit';
+  src: local('Outfit'), url(./fonts/Outfit-VariableFont_wght.ttf) format('ttf');
+}

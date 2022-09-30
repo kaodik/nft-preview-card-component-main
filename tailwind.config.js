@@ -15,7 +15,7 @@ module.exports = {
         isMobile: '375px',
       },
       fontFamily: {
-        outfit: 'Outfit',
+        Outfit: 'Outfit',
       },
     },
   },
